@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\StackCustom\StackCustom\bin\Debug\netcoreapp3.1\StackCustom.exe
+C:\Users\User\source\repos\StackCustom\StackCustom\bin\Debug\netcoreapp3.1\StackCustom.deps.json
+C:\Users\User\source\repos\StackCustom\StackCustom\bin\Debug\netcoreapp3.1\StackCustom.runtimeconfig.json
+C:\Users\User\source\repos\StackCustom\StackCustom\bin\Debug\netcoreapp3.1\StackCustom.runtimeconfig.dev.json
+C:\Users\User\source\repos\StackCustom\StackCustom\bin\Debug\netcoreapp3.1\StackCustom.dll
+C:\Users\User\source\repos\StackCustom\StackCustom\bin\Debug\netcoreapp3.1\StackCustom.pdb
+C:\Users\User\source\repos\StackCustom\StackCustom\obj\Debug\netcoreapp3.1\StackCustom.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StackCustom\StackCustom\obj\Debug\netcoreapp3.1\StackCustom.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StackCustom\StackCustom\obj\Debug\netcoreapp3.1\StackCustom.AssemblyInfo.cs
+C:\Users\User\source\repos\StackCustom\StackCustom\obj\Debug\netcoreapp3.1\StackCustom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StackCustom\StackCustom\obj\Debug\netcoreapp3.1\StackCustom.dll
+C:\Users\User\source\repos\StackCustom\StackCustom\obj\Debug\netcoreapp3.1\StackCustom.pdb
+C:\Users\User\source\repos\StackCustom\StackCustom\obj\Debug\netcoreapp3.1\StackCustom.genruntimeconfig.cache
